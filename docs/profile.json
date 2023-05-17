@@ -1,0 +1,16 @@
+{
+  "@context": [
+    "https://w3id.org/openbadges/v2",
+    "https://w3id.org/blockcerts/v3"
+  ],
+  "id": "https://blockcerts-20230517.storage.googleapis.com/profile.json",
+  "type": "Profile",
+  "name": "Lorem Ipsum Co. Ltd.",
+  "url": "https://www.loremipsum.co.jp",
+  "email": "blockcerts@loremipsum.co.jp",
+  "publicKey": [
+    {
+      "id": "ecdsa-koblitz-pubkey:0x4c354Ea19140315c043619258Fa5A6fC287a6b36"
+    }
+  ]
+}

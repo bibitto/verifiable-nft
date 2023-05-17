@@ -1,0 +1,7 @@
+{
+  "name": "verifiable-nft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "bibitto <bibitto.crypto@gmail.com>",
+  "license": "MIT"
+}
