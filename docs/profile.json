@@ -3,7 +3,7 @@
     "https://w3id.org/openbadges/v2",
     "https://w3id.org/blockcerts/v3"
   ],
-  "id": "https://blockcerts-20230517.storage.googleapis.com/profile.json",
+  "id": "https://bibitto.github.io/verifiable-nft/profile.json",
   "type": "Profile",
   "name": "Lorem Ipsum Co. Ltd.",
   "url": "https://www.loremipsum.co.jp",
